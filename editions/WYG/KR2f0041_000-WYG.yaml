@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2f0041/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御選明臣奏議
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:34:02.761576'
+  source:
+    repository: kanripo
+    path: KR2f0041/KR2f0041_000.txt
+hash: sha256:99380dd1b3e8448efb51d5aaa41ad2f05982f89909c9241de83ceac9839459dc

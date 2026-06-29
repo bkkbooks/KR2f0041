@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2f0041/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御選明臣奏議
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:34:02.761576'
+  source:
+    repository: kanripo
+    path: KR2f0041/KR2f0041_000.txt
+hash: sha256:2f19f5fad7178dd18231bf1f485d4ccade237b34f695873314e6f099aecfb426
